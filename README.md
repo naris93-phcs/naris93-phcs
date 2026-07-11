@@ -23,7 +23,7 @@ Analysis pipeline for estimating atmospheric muon lifetimes from real oscillosco
 
 Python pipeline for pulsar simulation, FFT period estimation, phase folding, pulse measurements, SNR estimation, and Monte Carlo validation.
 
-## Tools
+## Scientific Computing Stack
 
 Python • NumPy • Pandas • SciPy • Matplotlib • Git • GitHub • VS Code
 
