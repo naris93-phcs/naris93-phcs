@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
+<br>
+
 # Hi, I'm Dimitris 👋
 
 Physics graduate and MSc candidate in Particle Physics, focused on scientific computing, data analysis, and signal processing.
