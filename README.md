@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Dimitris 👋
 
-<!--
-**naris93-phcs/naris93-phcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Candidate in Particle Physics.
 
-Here are some ideas to get you started:
+I enjoy building scientific software for data analysis,
+signal processing and computational physics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Interests
+
+- Particle Physics
+- High Energy Physics
+- Scientific Computing
+- Signal Processing
+- Monte Carlo Methods
+
+---
+
+## Current Projects
+
+🔹 Muon Lifetime Analysis
+
+🔹 Pulsar Signal Analysis
+
+---
+
+## Currently Learning
+
+- ROOT
+- C++
+- Pythia
+- Scientific Python
+
+---
+
+Always learning.
+Always building.
