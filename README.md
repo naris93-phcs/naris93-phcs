@@ -6,7 +6,7 @@
 
 # Hi, I'm Dimitris 👋
 
-Physics graduate and MSc candidate in Particle Physics, focused on scientific computing, data analysis, and signal processing.
+Physics graduate and MSc candidate in Particle Physics, focused on scientific computing, data analysis and signal processing.
 
 I build reproducible scientific software using Python, with projects inspired by particle physics and astrophysics.
 
@@ -27,7 +27,7 @@ Analysis pipeline for estimating atmospheric muon lifetimes from real oscillosco
 
 ### [Pulsar Signal Analysis](https://github.com/naris93-phcs/pulsar-signal-analysis)
 
-Python pipeline for pulsar simulation, FFT period estimation, phase folding, pulse measurements, SNR estimation, and Monte Carlo validation.
+Python pipeline for pulsar simulation, FFT period estimation, phase folding, pulse measurements, SNR estimation and Monte Carlo validation.
 
 ## Scientific Computing Stack
 
