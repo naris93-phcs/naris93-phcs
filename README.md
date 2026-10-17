@@ -1,6 +1,7 @@
 <p align="center">
   <img src="Banner.png" alt="Particle Physics Banner" width="100%">
 </p>
+
 # Hi, I'm Dimitris 👋
 
 ### Particle Physics | Scientific Software | Computational Research
@@ -11,7 +12,6 @@ I build reproducible analysis pipelines that connect physical models, numerical 
 
 My work spans high-energy physics, Monte Carlo simulation, particle-level reconstruction, signal processing, and statistical analysis.
 
-**Turning physics into code.**
 
 ---
 
@@ -79,5 +79,3 @@ I'm interested in opportunities where physics, scientific computing, and softwar
 ---
 
 *From physical principles to computational models, from simulation to evidence.*
-
-**Turning physics into code.**
